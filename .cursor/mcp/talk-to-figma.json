@@ -1,0 +1,9 @@
+{
+  "id": "talk-to-figma",
+  "name": "Talk to Figma",
+  "description": "Figmaデザインに対して自然言語で質問し、改善案を得るMCP",
+  "entry": "talk-to-figma/index.ts",
+  "query": "このデザインのユーザビリティ上の問題点は？",
+  "path": "src/components",
+  "fileTypes": ["tsx", "jsx"]
+}
